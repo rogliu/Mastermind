@@ -1,5 +1,8 @@
 
 # Mastermind
+# Notes
+- using java 18
+- check if need to add `junit` and `jupiter` on clone
 ## Assumptions 
 Input is a string
 - Could have to account for a variety of input, i.e. invalid input
